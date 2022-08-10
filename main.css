@@ -1,0 +1,19 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: bisque;
+    color:firebrick;
+}
+
+a {
+    color: maroon;
+}
+
+a:visited {
+    color: darkred;
+}
+
+a:hover, a:active{
+    color: green;
+}
